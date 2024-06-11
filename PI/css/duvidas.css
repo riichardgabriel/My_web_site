@@ -1,0 +1,16 @@
+#duvidas{
+    width: 60%;
+    max-width: 600px;
+}
+
+#duvidas details summary{
+    background-color: tomato;
+    padding: 2%;
+    border-bottom: 2px solid aqua;
+    color: #fff;
+    font-weight: 600;
+}
+
+#duvidas details p{
+    background-color: yellow;
+}
